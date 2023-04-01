@@ -1,7 +1,7 @@
 # OO-MA-CP-ABE-CRF
 We defined the interfaces of four Python classes, namely ABE, Authority, User, and init, using the Charm-Crypto framework.
 
-# ABE, Authority, User, init
+# Python class
 The ABE class covers 22 steps of the scheme, while the Authority and User classes define the institution's ID, managed attributes, user ID, and owned attributes. In order to achieve project scalability, we defined the init class.
 
 # Dependency
